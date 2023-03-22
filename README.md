@@ -11,11 +11,10 @@ aka "ChatGPT-style" models for the European language area.
 Our goal is to provide models, code, training data and
 documentation that is:
 1. Free, open-source and permissive (MIT license)
-2. Non-commercial
-3. Transparent
-4. Open for contribution and participation
-5. State of the art
-6. Up-to-date
+2. Transparent
+3. Open for contribution and participation
+4. State of the art
+5. Up-to-date
 
 ## First Milestone
 In the first step we want to train, evaluate and publish
