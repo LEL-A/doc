@@ -14,6 +14,10 @@ documentation that is:
 2. Non-commercial
 3. Transparent
 4. Open for contribution and participation
+5. State of the art
+6. Up-to-date
+
+## First Steps
 
 ## Relevant Links
 - LLaMA
