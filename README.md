@@ -1,4 +1,19 @@
 # Documentation of LEL-A (Libre Euro Lingua-Alliance)
+The recent results of Alpaca are impressive.
+It was shown that it is realistically possible -
+even without a supercomputer and a multi-million budget -
+to train competitive ChatGPT-style large language models.
+
+On the long run we strive to provide so-called
+instruction-following large language models
+aka "ChatGPT-style" models for the European language area.
+
+Our goal is to provide models, code, training data and
+documentation that is:
+1. Free, open-source and permissive (MIT license)
+2. Non-commercial
+3. Transparent
+4. Open for contribution and participation
 
 ## Relevant Links
 - LLaMA
