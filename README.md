@@ -17,7 +17,11 @@ documentation that is:
 5. State of the art
 6. Up-to-date
 
-## First Steps
+## First Step
+In the first step we want to train, evaluate and publish
+a German and English large language model (LLM) of
+relatively small size. This model will not yet have the
+so-called instruction-following capabilities.
 
 ## Relevant Links
 - LLaMA
