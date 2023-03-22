@@ -17,11 +17,19 @@ documentation that is:
 5. State of the art
 6. Up-to-date
 
-## First Step
+## First Milestone
 In the first step we want to train, evaluate and publish
 a German and English large language model (LLM) of
 relatively small size. This model will not yet have the
 so-called instruction-following capabilities.
+
+The concrete steps towards this goal are:
+1. Provide a clean and appropriate English and German text corpus.
+2. Identify training method, training code and model type and hyperparameters.
+3. Find a way to get the necessary computation power and storage.
+4. Start, monitor and maintain the training.
+5. Evaluate the results on reference tasks.
+6. Publish the final results and the model.
 
 ## Relevant Links
 - LLaMA
