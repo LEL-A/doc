@@ -5,6 +5,10 @@
   - Blog: [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
   - arXiv: [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
   - [LLaMA Model Card](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)
+- Training Data
+  - [Common Crawl](https://commoncrawl.org/)
+  - [OSCAR](https://oscar-project.github.io/documentation/)
+  - [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html)
 
 ## Licensing
 Copyright (c) 2023 by the LEL-A team
