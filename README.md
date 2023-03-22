@@ -16,7 +16,11 @@ documentation that is:
 4. State of the art
 5. Up-to-date
 
-## First Milestone
+## Rough Planning
+This section plans the first steps and
+outlines the individual ventures in the future.
+
+### First Milestone
 In the first step we want to train, evaluate and publish
 a German and English generative pre-trained transformer
 (GPT) model of relatively small size. This model will not
@@ -30,7 +34,7 @@ The concrete steps towards this goal are:
 5. Evaluate the results on reference tasks.
 6. Publish the final model and results.
 
-## Second Milestone
+### Second Milestone
 - Add instruction-following capabilities by fine-tuning the GPT model from before.
 - This could be done in the same style as Alpaca.
 An OpenAI API access might be necessary for this, which would add additional costs.
@@ -40,7 +44,7 @@ An OpenAI API access might be necessary for this, which would add additional cos
 - Evaluate the results on reference tasks.
 - Publish the final model and results.
 
-## Outlook
+### Outlook
 - add more European languages
 - use more training data in general
 - improve quality of training data
