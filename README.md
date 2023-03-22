@@ -5,6 +5,9 @@
   - Blog: [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
   - arXiv: [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
   - [LLaMA Model Card](https://github.com/facebookresearch/llama/blob/main/MODEL_CARD.md)
+- Alpaca
+  - Blog: [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+  - GitHub: [Stanford Alpaca: An Instruction-following LLaMA Model](https://github.com/tatsu-lab/stanford_alpaca)
 - Training Data
   - [Common Crawl](https://commoncrawl.org/)
   - [OSCAR](https://oscar-project.github.io/documentation/)
