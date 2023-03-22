@@ -12,7 +12,7 @@ Our goal is to provide models, code, training data and
 documentation that is:
 1. Free, open-source and permissive (MIT license)
 2. Transparent
-3. Open for contribution and participation
+3. Open for agile contribution and participation
 4. State of the art
 5. Up-to-date
 
