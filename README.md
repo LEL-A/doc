@@ -46,6 +46,7 @@ An OpenAI API access might be necessary for this, which would add additional cos
 
 ### Outlook
 - add more European languages
+- add different programming languages
 - use more training data in general
 - improve quality of training data
 - determine and monitor bias, take countermeasures if necessary
