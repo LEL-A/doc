@@ -24,11 +24,21 @@ yet have the so-called instruction-following capabilities.
 
 The concrete steps towards this goal are:
 1. Provide a clean and appropriate English and German text corpus.
-2. Identify training method, training code and model type and hyperparameters.
+2. Identify training method, training code, model type and hyperparameters.
 3. Find a way to get the necessary computation power and storage.
 4. Start, monitor and maintain the training.
 5. Evaluate the results on reference tasks.
 6. Publish the final model and results.
+
+## Second Milestone
+- Add instruction-following capabilities by fine-tuning the GPT model from before.
+- This could be done in the same style as Alpaca.
+An OpenAI API access might be necessary for this, which would add additional costs.
+- Identify training method, training code and hyperparameters.
+- Find a way to get the necessary computation power and storage.
+- Start, monitor and maintain the training.
+- Evaluate the results on reference tasks.
+- Publish the final model and results.
 
 ## Relevant Links
 - LLaMA
