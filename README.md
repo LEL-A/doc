@@ -40,6 +40,15 @@ An OpenAI API access might be necessary for this, which would add additional cos
 - Evaluate the results on reference tasks.
 - Publish the final model and results.
 
+## Outlook
+- add more European languages
+- use more training data in general
+- improve quality of training data
+- determine and monitor bias, take countermeasures if necessary
+- train larger models
+- retrain existing models to keep them current
+- update training method, training code, model type and hyperparameters when new research is published
+
 ## Relevant Links
 - LLaMA
   - Blog: [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
