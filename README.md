@@ -54,6 +54,10 @@ An OpenAI API access might be necessary for this, which would add additional cos
 - retrain existing models to keep them current
 - update training method, training code, model type and hyperparameters when new research is published
 
+## Impediments and Risks
+1. We do not have sufficient computing power. Neither the hardware nor the money to rent.
+2. The licensing implications of using the OpenAI API (self-instruct / Alpaca style training) are not entirely clear.
+
 ## Relevant Links
 - LLaMA
   - Blog: [Introducing LLaMA: A foundational, 65-billion-parameter large language model](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
