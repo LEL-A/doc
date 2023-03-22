@@ -56,8 +56,11 @@ An OpenAI API access might be necessary for this, which would add additional cos
 
 ## Impediments and Risks
 1. We do not have sufficient computing power. Neither the hardware nor the money to rent.
+(see [#5](https://github.com/LEL-A/doc/issues/5))
 2. The licensing implications of using the OpenAI API (self-instruct / Alpaca style training) are not entirely clear.
+(see [#6](https://github.com/LEL-A/doc/issues/6))
 3. The LLaMA training code is not open-sourced.
+(see [#4](https://github.com/LEL-A/doc/issues/4))
 
 ## Relevant Links
 - LLaMA
