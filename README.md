@@ -83,7 +83,7 @@ Our commitment to open source means that we are enabling - in fact encouraging -
 to contribute and become part of our community. 
 Contribution and feedback is encouraged and always welcome.
 
-We communicate via a Slack channel. To get access ...
+We communicate via a Slack channel. To get access to the Slack, please reach out to omar at huggingface.co or philipp at huggingface.co to be added.
 
 ## Licensing
 Copyright (c) 2023 by the LEL-A team
