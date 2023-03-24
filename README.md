@@ -76,6 +76,7 @@ An OpenAI API access might be necessary for this, which would add additional cos
   - [OSCAR](https://oscar-project.github.io/documentation/)
   - [GC4 Corpus](https://german-nlp-group.github.io/projects/gc4-corpus.html)
   - [Online Language Modelling Dataset Pipeline](https://github.com/huggingface/olm-datasets)
+  - [Cleaned Alpaca Dataset](https://github.com/gururise/AlpacaDataCleaned)
 
 ## Contribution & Joining our Community
 Our commitment to open source means that we are enabling - in fact encouraging - all interested parties 
