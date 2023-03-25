@@ -40,14 +40,14 @@ Sie werden gebeten, eine Reihe von 20 verschiedenen Aufgabenstellungen zu entwer
 
 Hier sind die Anforderungen:
 1. Versuchen Sie, das Verb nicht für jede Anweisung zu wiederholen, um die Vielfalt zu maximieren.
-2. Die Sprache, die für die Instruktion verwendet wird, sollte ebenfalls vielfältig sein. Kombinieren Sie zum Beispiel Fragen mit zwingenden Anweisungen.
-3. Die Art der Anweisungen sollte vielfältig sein. Die Liste sollte verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung usw.
-4. Ein GPT-Sprachmodell sollte in der Lage sein, die Anweisung auszuführen. Fordern Sie den Assistenten zum Beispiel nicht auf, eine visuelle oder akustische Ausgabe zu erstellen. Ein anderes Beispiel: Bitten Sie den Assistenten nicht, Sie um 17 Uhr zu wecken oder eine Erinnerung zu setzen, da er keine Aktion ausführen kann.
-5. Die Anweisungen sollten auf Englisch sein.
-6. Die Anweisungen sollten 1 bis 2 Sätze lang sein. Es ist entweder ein Imperativsatz oder eine Frage erlaubt.
-7. Sie sollten eine geeignete Eingabe für die Anweisung erstellen. Das Eingabefeld sollte ein konkretes Beispiel enthalten, das für die Anweisung vorgesehen ist. Es sollte realistische Daten enthalten und keine einfachen Platzhalter. Die Eingabe sollte einen substanziellen Inhalt haben, um die Anweisung anspruchsvoll zu machen, aber idealerweise nicht mehr als 100 Wörter umfassen.
+2. Die Sprache, die für die Instruktion verwendet wird, soll ebenfalls vielfältig sein. Kombinieren Sie zum Beispiel Fragen mit zwingenden Anweisungen.
+3. Die Art der Anweisungen soll vielfältig sein. Die Liste soll verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung usw.
+4. Ein GPT-Sprachmodell soll in der Lage sein, die Anweisung auszuführen. Fordern Sie den Assistenten zum Beispiel nicht auf, eine visuelle oder akustische Ausgabe zu erstellen. Ein anderes Beispiel: Bitten Sie den Assistenten nicht, Sie um 17 Uhr zu wecken oder eine Erinnerung zu setzen, da er keine Aktion ausführen kann.
+5. Die Anweisungen sollen auf Deutsch sein.
+6. Die Anweisungen sollen 1 bis 2 Sätze lang sein. Es ist entweder ein Imperativsatz oder eine Frage erlaubt.
+7. Sie sollen eine geeignete Eingabe für die Anweisung erstellen. Das Eingabefeld soll ein konkretes Beispiel enthalten, das für die Anweisung vorgesehen ist. Es soll realistische Daten enthalten und keine einfachen Platzhalter. Die Eingabe soll einen substanziellen Inhalt haben, um die Anweisung anspruchsvoll zu machen, aber idealerweise nicht mehr als 100 Wörter umfassen.
 8. Nicht alle Anweisungen erfordern eine Eingabe. Wenn z. B. eine Anweisung nach einer allgemeinen Information fragt, z. B. "Was ist der höchste Berg der Welt? In diesem Fall geben wir einfach "<keine Eingabe>" in das Eingabefeld ein.
-9. Die Ausgabe sollte eine angemessene Antwort auf die Anweisung und die Eingabe sein. Achten Sie darauf, dass die Ausgabe weniger als 100 Wörter umfasst.
+9. Die Ausgabe soll eine angemessene Antwort auf die Anweisung und die Eingabe sein. Achten Sie darauf, dass die Ausgabe weniger als 100 Wörter umfasst.
 
 Liste von 20 Aufgaben:
 ```
