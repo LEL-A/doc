@@ -71,6 +71,7 @@ An OpenAI API access might be necessary for this, which would add additional cos
 - Alpaca
   - Blog: [Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html)
   - GitHub: [Stanford Alpaca: An Instruction-following LLaMA Model](https://github.com/tatsu-lab/stanford_alpaca)
+  - arXiv: [Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
 - Training Data
   - [Common Crawl](https://commoncrawl.org/)
   - [OSCAR](https://oscar-project.github.io/documentation/)
@@ -79,8 +80,8 @@ An OpenAI API access might be necessary for this, which would add additional cos
   - [Cleaned Alpaca Dataset](https://github.com/gururise/AlpacaDataCleaned)
 
 ## Contribution & Joining our Community
-Our commitment to open source means that we are enabling - in fact encouraging - all interested parties 
-to contribute and become part of our community. 
+Our commitment to open source means that we are enabling - in fact encouraging - all interested parties
+to contribute and become part of our community.
 Contribution and feedback is encouraged and always welcome.
 
 We communicate via a Slack channel. To get access to the Slack, please reach out to omar at huggingface.co or philipp at huggingface.co to be added.
