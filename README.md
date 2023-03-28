@@ -10,7 +10,7 @@ aka "ChatGPT-style" models for the European language area.
 
 Our goal is to provide models, code, training data and
 documentation that is:
-1. Free, open-source and permissive (MIT license)
+1. Free, open-source and permissive ([MIT license](https://en.wikipedia.org/wiki/MIT_License))
 2. Transparent
 3. Open for agile contribution and participation (see [Contribution & Joining our Community](#contribution--joining-our-community))
 4. State of the art
