@@ -123,3 +123,14 @@ Ausgabe: "Oscar Wilde"
 
 [...]
 ```
+
+## Further Problems and Improvements
+ChatGPT sometimes generates output like this:
+```
+Stellen Sie dem Assistenten eine Ja/Nein-Frage zu einem aktuellen Ereignis und geben Sie eine konkrete Eingabe für die Frage an.
+Eingabe: Hat der FC Bayern München das letzte Champions League-Spiel gewonnen?
+Antwort: Nein, der FC Bayern München hat das letzte Champions League-Spiel verloren.
+```
+
+Asking questions about recent sports events does not seem to be helpful.
+A possible solution can be to tell ChatGPT: "Do not ask questions about recent events."
