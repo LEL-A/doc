@@ -5,6 +5,10 @@
   - [LinkedIn](https://www.linkedin.com/posts/activity-7044989507972030464-g4hC)
   - [arXiv](https://arxiv.org/abs/2301.09626)
 
+## Multimodal Capabilities
+- OpenFlamingo: [Twitter](https://twitter.com/hardmaru/status/1640891630356946944),
+[Blog](https://laion.ai/blog/open-flamingo/)
+
 ## Translation
 - [Helsinki-NLP/opus-mt-en-de](https://huggingface.co/Helsinki-NLP/opus-mt-en-de)
 - [Fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/translation/README.md)
