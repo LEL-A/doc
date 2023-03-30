@@ -1,4 +1,4 @@
-# Documentation of LEL-A (Libre Euro Lingua-Alliance)
+# 🕊️ 🇪🇺 💬 Documentation of LEL-A (Libre Euro Lingua-Alliance)
 The recent results of Alpaca are impressive.
 It was shown that it is realistically possible -
 even without a supercomputer and a multi-million budget -
