@@ -53,6 +53,7 @@ An OpenAI API access might be necessary for this, which would add additional cos
 - train larger models
 - retrain existing models to keep them current
 - update training method, training code, model type and hyperparameters when new research is published
+- add multimodal capabilities
 
 ## Impediments and Risks
 1. We do not have sufficient computing power. Neither the hardware nor the money to rent.
