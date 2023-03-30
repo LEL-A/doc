@@ -9,6 +9,9 @@
 - OpenFlamingo: [Twitter](https://twitter.com/hardmaru/status/1640891630356946944),
 [Blog](https://laion.ai/blog/open-flamingo/)
 
+## Data Labeling and Management
+- [Argilla](https://www.argilla.io/)
+
 ## Translation
 - [Helsinki-NLP/opus-mt-en-de](https://huggingface.co/Helsinki-NLP/opus-mt-en-de)
 - [Fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/translation/README.md)
