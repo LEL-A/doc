@@ -16,6 +16,13 @@ documentation that is:
 4. State of the art
 5. Up-to-date
 
+## Our Ressources
+- [Documentation Repository](https://github.com/LEL-A/doc)
+  - [Multilingual Alpaca Prompt](https://github.com/LEL-A/doc/blob/main/alpaca_prompt.md)
+  - [Ideas, Links and Findings](https://github.com/LEL-A/doc/blob/main/ideas_links_findings.md)
+- [Cleaned German Alpaca Dataset](https://github.com/LEL-A/GerAlpacaDataCleaned)
+- [Hugging Face Organization](https://huggingface.co/LEL-A)
+
 ## Rough Planning
 This section plans the first steps and
 outlines the individual ventures in the future.
