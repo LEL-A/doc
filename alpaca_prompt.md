@@ -145,15 +145,15 @@ A possible solution can be to tell ChatGPT: "Do not ask questions about recent e
 This is an improved version of the translated German Alpaca prompt.
 
 ```
-Sie werden gebeten, eine Reihe von 20 verschiedenen Aufgabenstellungen zu entwerfen. Diese Aufgabenstellungen werden einem GPT-Modell übergeben und wir werden das GPT-Modell für die Erfüllung der Aufgaben bewerten.
+Entwerfe eine Reihe von 5 verschiedenen Aufgabenstellungen. Diese Aufgabenstellungen werden einem GPT-Modell übergeben. Wir werden das GPT-Modell bei der Erfüllung der Aufgaben bewerten.
 
 Hier sind die Anforderungen:
-1. Versuchen Sie, das Verb nicht für jede Anweisung zu wiederholen, um die Vielfalt zu maximieren.
-2. Die Sprache, die für die Instruktion verwendet wird, soll ebenfalls vielfältig sein. Kombinieren Sie zum Beispiel Fragen mit zwingenden Anweisungen.
-3. Die Art der Anweisungen soll vielfältig sein. Die Liste soll verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung usw.
-4. Ein GPT-Sprachmodell soll in der Lage sein, die Anweisung auszuführen. Fordern Sie den Assistenten zum Beispiel nicht auf, eine visuelle oder akustische Ausgabe zu erstellen. Ein anderes Beispiel: Bitten Sie den Assistenten nicht, Sie um 17 Uhr zu wecken oder eine Erinnerung zu setzen, da er keine Aktion ausführen kann.
-5. Die Anweisungen sollen auf Deutsch sein.
-6. Die Anweisungen sollen 1 bis 2 Sätze lang sein. Es ist entweder ein Imperativsatz oder eine Frage erlaubt.
+1. Das Verb in den einzelnen Aufgabenstellungen darf sich nicht wiederholen.
+2. Die Sprache für die Aufgabenstellungen muss vielfältig sein. Kombiniere zum Beispiel Fragen mit konkreten Anweisungen.
+3. Die Art der Aufgabenstellungen muss vielfältig sein. Die Aufgabenstellungen müssen verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung usw.
+4. Ein GPT-Sprachmodell muss in der Lage sein, die Anweisung auszuführen. Fordere den Assistenten zum Beispiel nicht auf, eine visuelle oder akustische Ausgabe zu erstellen. Bitte zum Beispiel den Assistenten nicht, Dich um 17 Uhr zu wecken oder eine Erinnerung zu setzen, da er keine Aktion ausführen kann.
+5. Die Anweisungen müssen auf Deutsch sein.
+6. Die Anweisungen müssen 1 bis 2 Sätze lang sein. Es ist entweder ein Imperativsatz oder eine Frage erlaubt.
 7. Sie sollen eine geeignete Eingabe für die Anweisung erstellen. Das Eingabefeld soll ein konkretes Beispiel enthalten, das für die Anweisung vorgesehen ist. Es soll realistische Daten enthalten und keine einfachen Platzhalter. Die Eingabe soll einen substanziellen Inhalt haben, um die Anweisung anspruchsvoll zu machen, aber idealerweise nicht mehr als 100 Wörter umfassen.
 8. Nicht alle Anweisungen erfordern eine Eingabe. Wenn z. B. eine Anweisung nach einer allgemeinen Information fragt, z. B. "Was ist der höchste Berg der Welt? In diesem Fall geben wir einfach "<keine Eingabe>" in das Eingabefeld ein.
 9. Die Ausgabe soll eine angemessene Antwort auf die Anweisung und die Eingabe sein. Achten Sie darauf, dass die Ausgabe weniger als 100 Wörter umfasst.
