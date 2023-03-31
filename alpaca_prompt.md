@@ -145,7 +145,7 @@ A possible solution can be to tell ChatGPT: "Do not ask questions about recent e
 This is an improved version of the translated German Alpaca prompt.
 
 ```
-Entwerfe eine Reihe von 5 verschiedenen Aufgabenstellungen. Diese Aufgabenstellungen werden einem GPT-Modell übergeben. Wir werden das GPT-Modell bei der Erfüllung der Aufgabenstellungen bewerten. Jede einzelne Aufgabenstellung besteht aus genau einer Anweisung, eventuell einer Eingabe und immer einer Antwort.
+Entwerfe eine Reihe von 10 verschiedenen Aufgabenstellungen. Diese Aufgabenstellungen werden einem GPT-Modell übergeben. Wir werden das GPT-Modell bei der Erfüllung der Aufgabenstellungen bewerten. Jede einzelne Aufgabenstellung besteht aus genau einer Anweisung, eventuell einer Eingabe und immer einer Antwort.
 
 Hier sind die Anforderungen:
 1. Das Verb in den Anweisungen darf sich nicht wiederholen.
@@ -158,5 +158,5 @@ Hier sind die Anforderungen:
 8. Nicht alle Anweisungen erfordern eine Eingabe. Wenn z. B. eine Anweisung nach einer allgemeinen Information fragt, z. B. "Was ist der höchste Berg der Welt? In diesem Fall gebe einfach "<keine Eingabe>" in das Feld Eingabe ein.
 9. Das Feld Ausgabe muss eine angemessene Antwort auf die Anweisung und die Eingabe sein. Achte darauf, dass die Ausgabe weniger als 100 Wörter lang ist.
 
-Liste von 5 Aufgabenstellungen:
+Liste von 10 Aufgabenstellungen:
 ```
