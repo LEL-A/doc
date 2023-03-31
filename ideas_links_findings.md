@@ -6,7 +6,8 @@
   - [arXiv](https://arxiv.org/abs/2301.09626)
 
 ## Multimodal Capabilities
-- OpenFlamingo: [Twitter](https://twitter.com/hardmaru/status/1640891630356946944),
+- OpenFlamingo:
+[Twitter](https://twitter.com/hardmaru/status/1640891630356946944),
 [Blog](https://laion.ai/blog/open-flamingo/)
 
 ## Data Labeling and Management
@@ -23,3 +24,9 @@ en2de = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-de',
                        tokenizer='moses', bpe='fastbpe')
 en2de.eval()  # disable dropout
 ```
+
+## Other related Organizations and Initiatives
+- LAION:
+[Website](https://laion.ai/),
+[Discord](https://discord.gg/xBPBXfcFHd),
+[GitHub](https://github.com/LAION-AI/)
