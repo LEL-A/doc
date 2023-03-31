@@ -11,6 +11,8 @@
 
 ## Data Labeling and Management
 - [Argilla](https://www.argilla.io/)
+- Good German text embedding model:
+[sentence-transformers/paraphrase-multilingual-mpnet-base-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-mpnet-base-v2)
 
 ## Translation
 - [Helsinki-NLP/opus-mt-en-de](https://huggingface.co/Helsinki-NLP/opus-mt-en-de)
