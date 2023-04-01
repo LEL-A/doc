@@ -10,8 +10,8 @@ These corrections were not applied to preserve the original conditions.
 - issues with numbering - see [#24](https://github.com/tatsu-lab/stanford_alpaca/pull/24)
 - a typo "instrucitons" vs. "instructions" - see [comment](https://github.com/davidliaos/alpaca4/commit/005ebd7af2fbe3dfd6d4ae25b92f339dbb487290#r105856020)
 
-## Fixed Prompt
-A fixed prompt looks like this:
+## Improved Alpaca Prompt
+The improved Alpaca prompt looks like this:
 ```
 You are asked to come up with a set of 20 diverse task instructions. These task instructions will be given to a GPT model and we will evaluate the GPT model for completing the instructions.
 
@@ -139,7 +139,6 @@ A possible solution can be to tell ChatGPT: "Do not ask questions about recent e
 
 ### Further Topics
 - The whole German text can be made much more compact and shorter.
-
 
 ## Improved Translated German Prompt
 This is an improved version of the translated German Alpaca prompt.
