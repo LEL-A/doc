@@ -159,3 +159,61 @@ Hier sind die Anforderungen:
 
 Liste von 10 Aufgabenstellungen:
 ```
+
+## Problems of Improved Translated German Prompt
+"Anweisung" and "Eingabe" contain very much overlapping content.
+This makes the "Anweisung" superfluous.
+Examples:
+
+Example 1:
+```
+Erstelle eine offene Frage zu einem Thema deiner Wahl.
+Eingabe: Erstelle eine offene Frage zur aktuellen Situation in der Politik.
+Ausgabe: Was sind die größten Herausforderungen, denen die politischen Führer heute gegenüberstehen und wie können sie diese bewältigen?
+```
+
+Example 2:
+```
+Klassifiziere die folgenden Objekte in zwei Kategorien.
+Eingabe: Klassifiziere die folgenden Objekte in zwei Kategorien: Apfel, Birne, Tisch, Stuhl.
+Ausgabe: Obst, Möbel.
+```
+
+An other problem is questions about personal events.
+The problem with this is that the model can have no knowledge of it and is made to hallucinate.
+
+```
+Schreibe einen Text über ein Ereignis deiner Wahl.
+Eingabe: Schreibe einen Text über das letzte Konzert, auf dem du warst.
+Ausgabe: Das letzte Konzert, das ich besucht habe, war ein unvergessliches Erlebnis. Die Energie der Musik und die Begeisterung der Fans machten den Abend zu etwas ganz Besonderem.
+```
+
+## Improved and simplified Translated German Prompt
+```
+Entwerfe eine Reihe von 5 verschiedenen Aufgabenstellungen. Diese Aufgabenstellungen werden einem GPT-Modell übergeben. Das GPT-Modell wird dann bei der Erfüllung dieser Aufgabenstellungen bewertet. Jede einzelne Aufgabenstellung besteht aus genau einer Anweisung und immer einer Antwort der Anweisung.
+
+Hier sind die Anforderungen:
+1. Die Aufgabenstellung muss auf Deutsch sein.
+2. Im Feld namens "Anweisung" muss die Sprache vielfältig sein. Kombiniere zum Beispiel Fragen mit zwingenden Instruktionen.
+3. Das Verb in den Anweisungen darf sich nicht wiederholen.
+4. Die Art der Anweisungen muss vielfältig sein. Die Anweisungen müssen verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung usw.
+5. Ein GPT-Sprachmodell muss in der Lage sein, die Anweisung auszuführen. Fordere den Assistenten zum Beispiel nicht auf, eine visuelle oder akustische Ausgabe zu erstellen. Bitte zum Beispiel den Assistenten nicht, Dich um 17 Uhr zu wecken oder eine Erinnerung zu setzen, da er keine Aktion ausführen kann.
+6. Die Anweisung muss entweder ein Imperativsatz oder eine Frage sein.
+7. Die Anweisung muss realistische Daten enthalten.
+8. Die Anweisung muss anspruchsvoll sein.
+9. Das Feld "Antwort" muss eine angemessene und präzise Antwort auf die Anweisung sein.
+10. Benutze in der Antwort den Indikativ und keinen Konjunktiv.
+
+Liste von 5 Aufgabenstellungen:
+```
+
+## Observations that should be removed later
+- Ereignisse
+- Situationen
+- Geschichten
+- Kurzgeschichten
+- Trends
+- Artikel
+- Links
+- Zeitungsartikel
+- Blogs
