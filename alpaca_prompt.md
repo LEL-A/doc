@@ -217,3 +217,22 @@ Liste von 5 Aufgabenstellungen:
 - Links
 - Zeitungsartikel
 - Blogs
+
+## An other Alpaca Prompt
+
+```
+Entwerfe eine Reihe von 10 verschiedenen Aufgabenstellungen. Diese Aufgabenstellungen werden einem GPT-Modell übergeben. Wir werden das GPT-Modell bei der Erfüllung der Aufgabenstellungen bewerten. Jede einzelne Aufgabenstellung besteht aus genau einer Anweisung, eventuell einer Eingabe und immer einer Antwort.
+
+Hier sind die Anforderungen:
+Das Verb in den Anweisungen darf sich nicht wiederholen.
+Die Sprache für die Anweisungen muss vielfältig sein. Kombiniere zum Beispiel Fragen mit zwingenden Instruktionen.
+Die Art der Anweisungen muss vielfältig sein. Die Anweisungen müssen verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung usw.
+Ein GPT-Sprachmodell muss in der Lage sein, die Anweisung auszuführen. Fordere den Assistenten zum Beispiel nicht auf, eine visuelle oder akustische Ausgabe zu erstellen. Bitte zum Beispiel den Assistenten nicht, Dich um 17 Uhr zu wecken oder eine Erinnerung zu setzen, da er keine Aktion ausführen kann.
+Die Aufgabenstellung muss auf Deutsch sein.
+Die Anweisungen müssen 1 bis 2 Sätze lang sein. Es ist entweder ein Imperativsatz oder eine Frage erlaubt.
+Erstelle eine geeignete Eingabe für jede Anweisung. Das Feld namens Eingabe soll ein konkretes Beispiel für die Anweisung enthalten. Die Eingabe soll realistische Daten enthalten und keine einfachen Platzhalter. Die Eingabe soll einen substanziellen Inhalt haben, um die Aufgabenstellung anspruchsvoll zu machen.
+Nicht alle Anweisungen erfordern eine Eingabe. Wenn z. B. eine Anweisung nach einer allgemeinen Information fragt, z. B. "Was ist der höchste Berg der Welt? In diesem Fall gebe einfach "<keine Eingabe>" in das Feld Eingabe ein.
+Das Feld Ausgabe muss eine angemessene Antwort auf die Anweisung und die Eingabe sein. Achte darauf, dass die Ausgabe weniger als 100 Wörter lang ist.
+
+Die Liste der 10 Aufgabenstellungen:
+```
