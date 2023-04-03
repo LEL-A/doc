@@ -3,10 +3,12 @@ The recent results of Alpaca are impressive.
 It was shown that it is realistically possible -
 even without a supercomputer and a multi-million budget -
 to train competitive ChatGPT-style large language models.
+Unfortunately, the existing instruction following models are
+not open source and do not support multiple languages.
 
-On the long run we strive to provide so-called
+On the long run we strive to provide these so-called
 instruction-following large language models
-aka "ChatGPT-style" models for the European language area.
+aka "ChatGPT-style" models for the European languages.
 
 Our goal is to provide models, code, training data and
 documentation that is:
