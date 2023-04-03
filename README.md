@@ -4,7 +4,8 @@ It was shown that it is realistically possible -
 even without a supercomputer and a multi-million budget -
 to train competitive ChatGPT-style large language models.
 Unfortunately, the existing instruction following models are
-not open source and do not support multiple languages.
+not [open source](https://opensource.org/osd/)
+and do not support multiple languages.
 
 On the long run we strive to provide these so-called
 instruction-following large language models
@@ -12,7 +13,7 @@ aka "ChatGPT-style" models for the European languages.
 
 Our goal is to provide models, code, training data and
 documentation that is:
-1. Free, open-source and permissive ([MIT license](https://en.wikipedia.org/wiki/MIT_License))
+1. Free, [open-source](https://opensource.org/osd/) and permissive ([MIT license](https://en.wikipedia.org/wiki/MIT_License))
 2. Transparent
 3. Open for agile contribution and participation (see [Contribution & Joining our Community](#contribution--joining-our-community))
 4. State of the art
