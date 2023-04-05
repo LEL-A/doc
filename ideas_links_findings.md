@@ -38,3 +38,4 @@ en2de.eval()  # disable dropout
 - BigScience:
 [Website](https://bigscience.huggingface.co/),
 [Blog](https://bigscience.huggingface.co/blog)
+- [openGPT-X](https://opengpt-x.de/)
