@@ -17,7 +17,7 @@
 
 ## Translation
 - [Helsinki-NLP/opus-mt-en-de](https://huggingface.co/Helsinki-NLP/opus-mt-en-de)
-- [Fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/translation/README.md)
+- [fairseq](https://github.com/facebookresearch/fairseq/blob/main/examples/translation/README.md)
 ```python
 en2de = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-de',
                        checkpoint_file='model1.pt:model2.pt:model3.pt:model4.pt',
