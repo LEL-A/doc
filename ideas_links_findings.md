@@ -25,8 +25,16 @@ en2de = torch.hub.load('pytorch/fairseq', 'transformer.wmt19.en-de',
 en2de.eval()  # disable dropout
 ```
 
+## Other Tools
+- PromptSource:
+[GitHub](https://github.com/bigscience-workshop/promptsource),
+[arXiv](https://arxiv.org/abs/2110.08207)
+
 ## Other related Organizations and Initiatives
 - LAION:
 [Website](https://laion.ai/),
 [Discord](https://discord.gg/xBPBXfcFHd),
 [GitHub](https://github.com/LAION-AI/)
+- BigScience:
+[Website](https://bigscience.huggingface.co/),
+[Blog](https://bigscience.huggingface.co/blog)
