@@ -24,6 +24,7 @@ documentation that is:
   - [Multilingual Alpaca Prompt](https://github.com/LEL-A/doc/blob/main/alpaca_prompt.md)
   - [Ideas, Links and Findings](https://github.com/LEL-A/doc/blob/main/ideas_links_findings.md)
 - [Cleaned German Alpaca Dataset](https://github.com/LEL-A/GerAlpacaDataCleaned)
+- [EuroInstructProject](https://github.com/LEL-A/EuroInstructProject): Instruction datasets from existing German, English and other European datasets.
 - [Hugging Face Organization](https://huggingface.co/LEL-A)
 
 ## Rough Planning
