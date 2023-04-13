@@ -39,3 +39,8 @@ en2de.eval()  # disable dropout
 [Website](https://bigscience.huggingface.co/),
 [Blog](https://bigscience.huggingface.co/blog)
 - [openGPT-X](https://opengpt-x.de/)
+
+## Datasets
+- https://github.com/databrickslabs/dolly/tree/master/data
+- https://huggingface.co/datasets/argilla/databricks-dolly-15k-multilingual
+
