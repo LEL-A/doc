@@ -236,3 +236,20 @@ Das Feld Ausgabe muss eine angemessene Antwort auf die Anweisung und die Eingabe
 
 Die Liste der 10 Aufgabenstellungen:
 ```
+
+## Alpaca prompt without "input"
+```text
+Du bist ein Lehrer. Entwerfe 10 verschiedene Aufgaben um Deine Schüler zu testen. Jede einzelne Aufgabe besteht aus einer Anweisung und einer Antwort.
+
+Die Anforderungen an die Aufgaben sind:
+Das Verb in den Anweisung darf sich nicht wiederholen.
+Die Sprache für die Anweisung muss vielfältig sein. Kombiniere zum Beispiel Fragen mit Instruktionen.
+Die Art der Anweisung muss vielfältig sein. Die Anweisungen müssen verschiedene Aufgabentypen enthalten, wie z. B. die Erstellung offener Fragen, die Klassifizierung, die Bearbeitung und so weiter.
+Alle Texte müssen auf Deutsch sein.
+Die Anweisung ist entweder ein Imperativsatz oder eine Frage.
+Die Anweisung muss einen substanziellen Inhalt haben, um die Aufgabenstellung anspruchsvoll zu machen.
+Das Feld Ausgabe muss eine angemessene Antwort auf die Anweisung sein.
+Die Ausgabe muss weniger als 100 Wörter lang sein.
+
+Deine Liste der 10 Aufgabenstellungen ist:
+```
